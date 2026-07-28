@@ -1,4 +1,7 @@
 {
   "version": "0.1.0",
-  "download_url": "https://github.com/timncox/schwung-overwork/releases/download/v0.1.0/overwork-module.tar.gz"
+  "download_url": "https://github.com/timncox/schwung-work/releases/download/v0.1.0/overwork-module.tar.gz",
+  "name": "Overwork",
+  "description": "Full-surface Work: twenty FX machines on the live input with an Elektron-style step sequencer and parameter locks",
+  "repo_url": "https://github.com/timncox/schwung-work"
 }
