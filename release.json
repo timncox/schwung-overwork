@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "download_url": "https://github.com/timncox/schwung-work/releases/download/v0.4.0/overwork-module.tar.gz",
+  "version": "0.5.0",
+  "download_url": "https://github.com/timncox/schwung-work/releases/download/v0.5.0/overwork-module.tar.gz",
   "name": "Overwork",
-  "description": "Full-surface Work: a 16-pattern bank, song mode, parameter locks, live recording, undo/redo and presets",
+  "description": "Full-surface Work: 16-pattern bank, song mode, parameter locks, live recording, presets and feedback protection",
   "repo_url": "https://github.com/timncox/schwung-work"
 }
